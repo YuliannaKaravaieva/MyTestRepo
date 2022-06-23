@@ -1,6 +1,5 @@
 My first file yay
-
- HEAD
+HEAD
 Dzien dobry
 
 Hi) Have a good day!
@@ -12,4 +11,4 @@ parent of 5951ce5 (Hi) Have a good day!)
 Dzien dobry
 
 FH.GKGJKER
-a8c9afd4e41b34933bacd80ee2b82548ef4bc0c7
+
